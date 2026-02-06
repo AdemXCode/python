@@ -1,0 +1,2 @@
+python_oyrenirem=True
+print(python_oyrenirem)
